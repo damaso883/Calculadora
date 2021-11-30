@@ -1,2 +1,2 @@
 # calculadora-java-script
-https://damaso.github.io/calculadora-java-script/
+https://lucas.github.io/calculadora-java-script/
